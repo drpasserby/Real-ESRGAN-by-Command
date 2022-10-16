@@ -28,19 +28,19 @@ Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 ***
 
 # 补充备注
-
-## 如果有条件请阅读Github上面的README.md，很有用处！！
+如果有条件请阅读原作Github上面的README，很有用处!!
 以下是一些摘抄：
 
-“这个可执行文件是可移植的，包括所有所需的二进制文件和模型。不需要 CUDA 或 PyTorch 环境。
-您可以简单地运行以下命令。
-我们提供了三种模型：
-realesrgan-x4plus（默认）
-realesrnet-x4plus
-realesrgan-x4plus-anime（针对动漫图片进行了优化，模型尺寸小）
-您可以将-n参数用于其他模型，例如，./realesrgan-ncnn-vulkan.exe -i input.jpg -o output.png -n realesrnet-x4plus
-”
+>   “这个可执行文件是可移植的，包括所有所需的二进制文件和模型。不需要 CUDA 或 PyTorch 环境。
+    您可以简单地运行以下命令。
+    我们提供了三种模型：
+    realesrgan-x4plus（默认）
+    realesrnet-x4plus
+    realesrgan-x4plus-anime（针对动漫图片进行了优化，模型尺寸小）
+    您可以将-n参数用于其他模型，例如，./realesrgan-ncnn-vulkan.exe -i input.jpg -o output.png -n realesrnet-x4plus
+    ”
 
 ***
 此文档和文件夹来自：@吾律心尘
-B站视频链接：https://www.bilibili.com/video/av976009755
+## 使用方法说明
+>B站视频链接：https://www.bilibili.com/video/av976009755
