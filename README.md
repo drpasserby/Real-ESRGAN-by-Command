@@ -30,7 +30,6 @@ https://arxiv.org/abs/2107.10833
 
 ### 原作信息：
 Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data
-[Paper]   [Project Page]   [Demo]
 Xintao Wang, Liangbin Xie, Chao Dong, Ying Shan
 Applied Research Center (ARC), Tencent PCG
 Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
