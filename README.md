@@ -1,15 +1,21 @@
-# 使用前说明
+# Real-ESRGAN 批处理版本
+**Real-ESRGAN By Batchfile**
+使用Windows系统批处理运行Real-ESRGAN
+
+***
+
+## 使用前说明
 将本文件夹放在Real-ESRGAN文件夹里面，然后再进行运行。
 本仓库不包含Real-ESRGAN原文件，如若需要请到原仓库下载。
 
-# 快捷使用说明：
+## 快捷使用说明：
 0.实测支持bmp，webp，png，jpg，tif，jpeg格式
 1.将符合0.格式的原图片（支持批量）放到use的input文件夹中。
 2.点击start文件，稍等片刻。
 3.在同一目录下的output文件夹里面取出处理后的图片。
 4.使用clear会清除input和output两个文件夹的所有文件，请保存好图片再使用。
 
-# 进阶使用指南：
+## 进阶使用指南：
 1.将符合0.格式的原图片（支持批量）放到use的input文件夹中。
 2.如果是动漫图片可以点击start_anime，稍等片刻。（好像差不多，或许有点差别。我也不知道）
 
