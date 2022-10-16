@@ -1,3 +1,7 @@
+# 使用前说明
+将本文件夹放在Real-ESRGAN文件夹里面，然后再进行运行。
+本仓库不包含Real-ESRGAN原文件，如若需要请到原仓库下载。
+
 # 快捷使用说明：
 0.实测支持bmp，webp，png，jpg，tif，jpeg格式
 1.将符合0.格式的原图片（支持批量）放到use的input文件夹中。
@@ -12,13 +16,13 @@
 ***
 
 # 原作者信息
-## 原作Github指路：
+### 原作Github指路：
 https://github.com/xinntao/Real-ESRGAN
 
-## 原作论文：
+### 原作论文：
 https://arxiv.org/abs/2107.10833
 
-## 原作信息：
+### 原作信息：
 Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data
 [Paper]   [Project Page]   [Demo]
 Xintao Wang, Liangbin Xie, Chao Dong, Ying Shan
